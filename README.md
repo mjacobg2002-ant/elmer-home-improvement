@@ -1,5 +1,5 @@
-# Elmer Home Improvement — Homepage
+# Elmer Remodeling — Homepage
 
-Concept homepage for Elmer Home Improvement — full-service remodeling (kitchens, bathrooms, flooring, ceramic & tile). Warm espresso + brass palette, text logo, real remodel hero photo + interior gallery (placeholders to swap). No phone/address provided yet — add them to index.html.
+Concept homepage for Elmer Remodeling — full-service remodeling (kitchens, bathrooms, flooring, ceramic & tile). Warm espresso + brass palette, text logo, real remodel hero photo + interior gallery (placeholders to swap). No phone/address provided yet — add them to index.html.
 
 Live: GitHub Pages (Settings → Pages → main / root).
