@@ -137,7 +137,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 
 /* ---------- Logo ---------- */
 .logo { display: inline-flex; align-items: center; gap: 13px; }
-.logo__mark { flex: none; height: 82px; width: auto; display: block; color: var(--graphite); }
+.logo__mark { flex: none; height: 70px; width: auto; display: block; }
 .site-header[data-scrolled] .logo__mark { height: 62px; transition: height .3s var(--ease); }
 
 /* text logo (B&F text logo) */
@@ -522,7 +522,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .footer__bar { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-block: 24px; border-top: 1px solid var(--line-dark); font-size: .84rem; color: var(--concrete); }
 .footer__meta { color: var(--concrete); }
 .footer__addr { display: block; padding: 6px 0; color: var(--concrete-2); font-size: .95rem; }
-.footer__brand .logo__mark { height: 60px; }
+.footer__brand .logo__mark { height: 84px; }
 
 /* ---------- Reviews ---------- */
 .reviews__grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
